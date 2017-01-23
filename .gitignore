@@ -14,7 +14,6 @@ gen/
 out/
 
 # Gradle files
-.gradle/
 build/
 
 # Local configuration file (sdk path, etc)
@@ -38,5 +37,3 @@ captures/
 # Keystore files
 *.jks
 .idea/
-
-gradle/wrapper/gradle-wrapper.properties
